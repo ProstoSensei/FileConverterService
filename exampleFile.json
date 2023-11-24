@@ -1,0 +1,26 @@
+{
+    "Disney":
+    {"films": [{
+        "duration": 120,
+        "director": "Пол Фиг",
+        "averageRating": 5,
+        "name": "Шпион",
+        "id": "2"
+    }]},
+    "WB": {"films": [
+        {
+            "duration": 161,
+            "director": "Квентин Тарантино",
+            "averageRating": 5,
+            "name": "Однажды в Голливуде",
+            "id": "0"
+        },
+        {
+            "duration": 94,
+            "director": "Луи Летеррье",
+            "averageRating": 4,
+            "name": "Перевозчик",
+            "id": "1"
+        }
+    ]}
+}

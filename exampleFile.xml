@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<films>
+    <film id="0" filmCompany="WB">
+        <name>Однажды в Голливуде</name> <!-- Название фильма -->
+        <director>Квентин Тарантино</director> <!-- Режисёр -->
+        <duration>161</duration> <!-- Продолжительность (в мин.) -->
+        <averageRating>5</averageRating> <!-- Средняя оценка -->
+    </film>
+    <film id="1" filmCompany="WB">
+        <name>Перевозчик</name> <!-- Название фильма -->
+        <director>Луи Летеррье</director> <!-- Режисёр -->
+        <duration>94</duration> <!-- Продолжительность (в мин.) -->
+        <averageRating>4</averageRating> <!-- Средняя оценка -->
+    </film>
+    <film id="2" filmCompany="Disney">
+        <name>Шпион</name> <!-- Название фильма -->
+        <director>Пол Фиг</director> <!-- Режисёр -->
+        <duration>120</duration> <!-- Продолжительность (в мин.) -->
+        <averageRating>5</averageRating> <!-- Средняя оценка -->
+    </film>
+</films>
